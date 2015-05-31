@@ -1,7 +1,2 @@
-# This is flihabi kernel iso
-
-Use git config:
-                git config core.compression 0
-                git config core.loosecompression 0
-                pack.window 0
-for proper use of git with an iso file
+Please download the iso in this directory on the following url:
+* http://91.121.83.195/flihabi-core.iso
